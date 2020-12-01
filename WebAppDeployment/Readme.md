@@ -6,6 +6,6 @@
 
 ## The 7 *.pkl files are described here.
 
-### gloveModel.pkl loads the Word2Vec Model into memory
+### gloveModel.pkl loads the Word2Vec Model into memory => Git does not allow upload of files larger than 2 GB. Please find this file here: https://drive.google.com/file/d/1SKpX_5jgS779Q4tK98f9AFIqieDlcSEU/view?usp=sharing
 ### vectorizer.pkl loads the vectorizer
-### the lr_*.pkl files are the various pre-trained logistical regression models that we will use for classification.
+### The 5 lr_*.pkl files are the various pre-trained logistical regression models that we will use for classification.
