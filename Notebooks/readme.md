@@ -5,7 +5,7 @@ Much like the general internet, racism and sexism thrive in the gaming world. De
 The jupyter notebooks map the thought process and learning path of creating this identifier and insights. 
 
 ### Model Formation
-0) **0) ggwp0_languages.ipynb**
+0) **ggwp0_languages.ipynb**
     - Labeling languages of in-game chat messages across 21 million rows
 1) **ggwp1_eda_and_kmeans.ipynb**
     - Data cleaning
